@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <H1 align="center">
 YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
 
@@ -80,3 +81,6 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 [![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/9jRRZ-WL698/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=9jRRZ-WL698))
 
+=======
+# YOLOv8-Deepsort
+>>>>>>> 66d0d89653c0634dd153ea4cbb2a028c2644ba17
